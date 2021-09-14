@@ -13,4 +13,4 @@ Database contains two Tables- Users Table & Transaction Table
 
 
 in this code u have to add your database details . then its working perfect
-here is the website link[https://self-determined-tab.000webhostapp.com/the-sparks-foundation-main/index.php]
+here is the website {link}[https://self-determined-tab.000webhostapp.com/the-sparks-foundation-main/index.php]
